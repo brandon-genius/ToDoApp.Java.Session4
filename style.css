@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: aqua;
+    background-color: coral;
+}
+.button{
+    text-align: center;
+    background-color: coral;
+}
+#studentlist{
+    text-align: center;
+    background-color: black;
+    color: white;
+}

@@ -17,7 +17,9 @@ let number1=prompt("enter first number");
 let number2=prompt("enter second number");
 
 if(number1>number2){
-    console.log("the first number is greater than the second");
-}else{
-    console.log("the first number is either equal to,sdfg or less than the second number");
+    console.log(number1);
+}else if(number2>number1)
+    console.log(number2);
+else if(number1==number2){
+    console.log("The numbers are equal");
 }
